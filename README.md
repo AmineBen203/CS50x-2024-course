@@ -5,5 +5,5 @@ Help batsy to reach the finish line!
 
 It is a mini game I have created for CS50 week0.
 
-Link[href](https://scratch.mit.edu/projects/1042718845/)
+[Link](https://scratch.mit.edu/projects/1042718845/)
 
